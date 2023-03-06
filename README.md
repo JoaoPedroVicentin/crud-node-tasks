@@ -3,8 +3,6 @@
 <h2>API desenvolvida como um sistema de CRUD para poder gerenciar tarefas.
 </h2>
 
-<br>
-
 <h3>📝 Suas funcionalidades: </h3>
 
 <li>Criação de uma task</li>
